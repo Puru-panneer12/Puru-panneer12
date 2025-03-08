@@ -15,8 +15,8 @@ I'm a **Senior Release Manager** with 12+ years of experience in IT, specializin
 - **Technical Documentation & Learning Resources**
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](#)
+- **LinkedIn**:www.linkedin.com/in/purushothaman-panneerselvam
 - **GitHub**: You're already here! 😊
-- **Email**: [Your Email](#)
+- **Email**: puru.panneer@gmail.com
 
 Let's collaborate and build something amazing! 🚀
