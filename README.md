@@ -1,7 +1,7 @@
 # Hi there, I'm Puru 👋
 
 ## 🚀 About Me
-I'm a **Senior Release Manager** with 12+ years of experience in IT, specializing in **release management, deployment, and automation**. My career started in **manual testing**, evolved into **deployment engineering**, and now I oversee **release strategies** ensuring smooth software deliveries.
+I'm a **Senior Release Manager** with 15+ years of experience in IT, specializing in **release management, deployment, and automation**. My career started in **manual testing**, evolved into **deployment engineering**, and now I oversee **release strategies** ensuring smooth software deliveries.
 
 ## 🔥 What I'm Exploring
 - **Technical Skills Growth**: Upskilling in **DevOps, CI/CD, Cloud Technologies, and Automation**
